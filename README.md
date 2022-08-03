@@ -1,5 +1,5 @@
 ## Hi there 👋 It's Riri
-- :seedling: I’m currently learning about User Experience
+- :seedling: I’m currently learning about Data Analyst
 - :envelope: How to reach me rima.chusnul@gmail.com
 
 Connect with me :
